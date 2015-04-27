@@ -10,7 +10,6 @@ sncchecker.cpp*/
 #include <string>
 #include <sstream>
 #include <locale>
-#include <algorithm>
 #include <functional>
 #include <cctype>
 #include <vector>
