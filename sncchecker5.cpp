@@ -8,7 +8,7 @@ sncchecker.cpp*/
 #include <fstream>
 #include <ctime>
 #include <string>
-#include <sstream>
+//#include <sstream>
 #include <functional>
 #include <cctype>
 #include <vector>
