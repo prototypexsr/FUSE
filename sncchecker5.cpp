@@ -9,7 +9,6 @@ sncchecker.cpp*/
 #include <ctime>
 #include <string>
 #include <sstream>
-#include <locale>
 #include <functional>
 #include <cctype>
 #include <vector>
